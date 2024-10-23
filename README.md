@@ -28,7 +28,7 @@
   - type: String
   - example: gemini-1.5-pro
   - required: true
-  - description: The model you want to use from Gemini AI
+  - description: It is a mathematical or computational system trained to recognize patterns and make predictions or decisions based on data.
 - prompt
   - type: String
   - example: Here is the report from this hotel run from last night's audit.
@@ -36,7 +36,7 @@
   - description: Prompts in AI are input instructions or questions given to a model, guiding it to generate a specific response or output.
 - instructions
   - type: String
-  - example: You role is to generate a well defined summary
+  - example: You role is to generate a well-defined summary
   - required: true
   - description: Instructions are input texts or questions that guide the model to generate a specific response or output.
 
